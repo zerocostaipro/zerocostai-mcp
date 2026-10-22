@@ -1,0 +1,35 @@
+{
+  "name": "zerocostai-mcp",
+  "version": "1.0.0",
+  "description": "Official ZeroCostAI Model Context Protocol (MCP) Server: Query 1,002+ verified $0.00 free AI tools, bust SaaS paywalls, and benchmark AI alternatives directly from Cursor, Claude Desktop, and Antigravity.",
+  "main": "bin/index.js",
+  "bin": {
+    "zerocostai-mcp": "./bin/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "ai-tools",
+    "free-ai",
+    "paywall-buster",
+    "cursor",
+    "claude-desktop",
+    "windsurf",
+    "smithery",
+    "glama"
+  ],
+  "author": "ZeroCostAI Lab <contact@zerocostai.pro> (https://zerocostai.pro)",
+  "license": "MIT",
+  "homepage": "https://zerocostai.pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerocostaipro/zerocostai-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zerocostaipro/zerocostai-mcp/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
